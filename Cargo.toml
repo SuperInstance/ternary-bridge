@@ -1,0 +1,6 @@
+[package]
+name = "ternary-bridge"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Bridge pattern for connecting heterogeneous ternary systems with protocol and codec translation"
