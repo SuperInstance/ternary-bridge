@@ -82,3 +82,11 @@ Central to the SuperInstance interop story. Depends on nothing external. Used by
 ## License
 
 MIT
+
+## See Also
+- **ternary-protocol** — related
+- **ternary-channel** — related
+- **ternary-mesh** — related
+- **ternary-flux** — related
+- **ternary-constellation** — related
+
